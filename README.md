@@ -46,16 +46,14 @@ Here are some ideas to get you started:
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
+https://i.pinimg.com/1200x/fb/87/0a/fb870acb6e9c0193a55114536d615e3a.jpg
 </span>
 
--->
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; ***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
@@ -77,6 +75,13 @@ __Check out my GitHub repository:__
     </a>
   </p>
 </div>
+-->
+
+<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/1200x/fb/87/0a/fb870acb6e9c0193a55114536d615e3a.jpg" />
+
+ ***About me***
+
+
 
 
 
