@@ -3,9 +3,9 @@
 
 ### 👋 Hi there. This is NahWe!
 
-<p>
-   I design and build Python-based tools to automate data workflows, orchestrate AI systems and process large, unstructured datasets.
-</p>
+### 🧠 About me
+
+I design and build Python-based tools to automate data workflows, orchestrate AI systems and process large, unstructured datasets.
 
 <br clear="right"/>
 <!-- 
