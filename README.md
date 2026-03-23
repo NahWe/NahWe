@@ -1,7 +1,7 @@
 
 
 <p>
-   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there. , I'm NahWe!</h1>
+   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm NahWe!</h1>
      
 </p>
 <img align="right" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" width="160"/>
