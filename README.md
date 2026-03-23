@@ -1,7 +1,18 @@
+<img align="right" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" width="160"/>
+
+
+### 👋 Hi there. This is NahWe!
+
+<p>
+   I design and build Python-based tools to automate data workflows, orchestrate AI systems and process large, unstructured datasets.
+</p>
+
+<br clear="right"/>
+<!-- 
 
 <img align="right" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" width="160"/>
 
-### 👋 Hi there. This is NahWe!
+## 👋 Hi there. This is NahWe!
 
 ---
 
@@ -14,7 +25,10 @@ I design and build Python-based tools to automate data workflows, orchestrate AI
 <br clear="right"/>
 
 
-<!-- 
+
+
+
+
 <p>
    <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there. This is NahWe! <img align="right" width="120px" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" /></h2>
      
@@ -33,11 +47,7 @@ I design and build Python-based tools to automate data workflows and orchestrate
 <!-- <img align="right" width="160px" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" />  -->
 <!-- <img align="right" width="280px" src="https://i.pinimg.com/1200x/fb/87/0a/fb870acb6e9c0193a55114536d615e3a.jpg" /> -->
 
----
 
-### 🧠 About me
-
-I design and build Python-based tools to automate data workflows, orchestrate AI systems and process large, unstructured datasets.
 
 ---
 
