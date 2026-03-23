@@ -64,13 +64,64 @@ I design and build Python-based tools to automate data workflows and orchestrate
 
 ### 🧰 Tech Stack
 
-**Core** <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<p>
+<b>Core</b>
+</p>
 
-**Data** <br> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-**AI / ML** <br> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/HuggingFace-FF9D00?style=flat&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/LangChain-000000?style=flat">
+<br>
 
-**Automation & DevOps** <br> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white">
+<p>
+<b>Data</b>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
+</p>
+
+<br>
+
+<p>
+<b>AI / ML</b>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+   
+</p>
+
+<br>
+
+<p>
+<b>Automation & DevOps</b>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
 
 ---
 
