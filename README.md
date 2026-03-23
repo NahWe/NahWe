@@ -3,7 +3,8 @@
   <b>Hi there. This is NahWe!</b>
 </p>
 
-<img align="right" width="280px" src="https://i.pinimg.com/1200x/fb/87/0a/fb870acb6e9c0193a55114536d615e3a.jpg" />
+<img align="right" width="280px" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" />
+<!-- <img align="right" width="280px" src="https://i.pinimg.com/1200x/fb/87/0a/fb870acb6e9c0193a55114536d615e3a.jpg" /> -->
 
 ---
 
