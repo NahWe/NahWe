@@ -1,6 +1,7 @@
-<img align="right" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" width="160"/>
 
-<h3 align="center">👋 Hi there. This is NahWe!</h3>
+
+<h2 align="center">👋 Hi there. This is NahWe!</h2>
+<img align="right" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" width="160"/>
 
 ### 🧠 About me
 
