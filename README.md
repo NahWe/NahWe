@@ -1,4 +1,22 @@
+<table>
+<tr>
+<td width="70%">
 
+## 👋 Hi there. This is NahWe!
+
+I design and build Python-based tools to automate data workflows and orchestrate AI systems.
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+<!-- 
 <p>
    <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there. This is NahWe! <img align="right" width="120px" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" /></h2>
      
@@ -9,7 +27,7 @@
 <p>
 I design and build Python-based tools to automate data workflows and orchestrate AI systems.
 </p>
-<!-- <p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   <h>Hi there. This is NahWe!</b>
 </p>
