@@ -1,10 +1,15 @@
+
 <img align="right" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" width="160"/>
 
-<h2>👋 Hi there. This is NahWe!</h2>
+### 👋 Hi there. This is NahWe!
 
-<p>
-I design and build Python-based tools to automate data workflows and orchestrate AI systems.
-</p>
+---
+
+### 🧠 About me
+
+I design and build Python-based tools to automate data workflows, orchestrate AI systems and process large, unstructured datasets.
+
+---
 
 <br clear="right"/>
 
