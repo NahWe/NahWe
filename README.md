@@ -1,16 +1,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  <b>Hi there. This is NahWe!</b>
+  <h>Hi there. This is NahWe!</b>
 </p>
 
-<img align="right" width="280px" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" />
+<img align="right" width="160px" src="https://i.pinimg.com/originals/b1/a2/61/b1a261d910a31cef0cd7f21ad75752f8.jpg" />
 <!-- <img align="right" width="280px" src="https://i.pinimg.com/1200x/fb/87/0a/fb870acb6e9c0193a55114536d615e3a.jpg" /> -->
 
 ---
 
 ### 🧠 About me
 
-Python-focused developer building tools for **data processing, automation and AI workflows**.
+I design and build Python-based tools to automate data workflows, orchestrate AI systems and process large, unstructured datasets.
 
 ---
 
@@ -34,13 +34,15 @@ Python-focused developer building tools for **data processing, automation and AI
 
 ---
 
+
+
 ### 📦 Featured Projects
 
-**Data Pipeline CLI**
-CLI tool to clean, validate and transform messy datasets into structured formats ready for analysis.
+**[Data Pipeline CLI](https://github.com/NahWe/data-pipeline-cli)**  
+CLI tool for validating, cleaning and transforming raw datasets into structured analysis-ready formats.
 
-**AI Agent Workflows**
-Experiments with multi-step LLM pipelines, tool orchestration and autonomous task execution.
+**[AI Agent Workflows](https://github.com/NahWe/ai-agent-workflows)**  
+Framework for orchestrating multi-step LLM pipelines with tool execution and state management.
 
 ---
 
